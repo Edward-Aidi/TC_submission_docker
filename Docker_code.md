@@ -2,6 +2,13 @@
 
 https://cr.console.aliyun.com/
 
+### Docker login
+```
+sudo docker login --username=d.ai94.sh@gmail.com registry-intl.cn-shenzhen.aliyuncs.com
+```
+First type in the computer admin pw, then the docker container pw
+
+### Build docker image
 ```
 docker build -t registry.cn-shenzhen.aliyuncs.com/tc_comp/tc_comp_submit:1.0 .
 ```
