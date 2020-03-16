@@ -9,6 +9,7 @@ sudo docker login --username=d.ai94.sh@gmail.com registry-intl.cn-shenzhen.aliyu
 First type in the computer admin pw, then the docker container pw
 
 ### Build docker image
+Navigate to the folder where you have the Dockerfile on your local computer and then run the code in the terminal
 ```
 docker build -t registry.cn-shenzhen.aliyuncs.com/tc_comp/tc_comp_submit:1.0 .
 ```
