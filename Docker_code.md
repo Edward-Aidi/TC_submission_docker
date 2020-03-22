@@ -1,4 +1,4 @@
-# Website for the image container for Ali CLoud
+# Website for the image container for Ali Cloud
 
 https://cr.console.aliyun.com/
 
