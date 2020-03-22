@@ -19,4 +19,7 @@ CPU image：`docker run your_image sh run.sh`
 
 GPU image：`nvidia-docker run your_image sh run.sh`
 
-推送到镜像仓库 docker push registry.cn-shenzhen.aliyuncs.com/test_for_tianchi/test_for_tianchi_submit:1.0
+推送到镜像仓库 
+```
+docker push registry.cn-shenzhen.aliyuncs.com/test_for_tianchi/test_for_tianchi_submit:1.0
+```
